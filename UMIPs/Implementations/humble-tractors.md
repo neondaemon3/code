@@ -34,3 +34,4 @@ Based on the intended ancillary data above, `upperBound` should be set to 30 and
 * NFT Sales at 31 or above voters should return the value 30 and long KPI option holders will receive  30-10/30-10 = 100% of `collateralPerPair` for each token;
 
 `collateralPerPair` above is the total locked collateral per KPI options token and is set at 500 USDC
+
